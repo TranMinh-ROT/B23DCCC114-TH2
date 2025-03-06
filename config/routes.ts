@@ -43,6 +43,13 @@
 		component: './TH2/Bai2',
 		icon: 'HomeOutlined',
 	},
+   {
+		path: '/game-oan-tu-ti',
+		name: 'Oản Tù Tì',
+		component: './GameOanTuTi',
+		icon: 'GamepadOutlined',
+	},
+
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
